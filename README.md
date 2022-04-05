@@ -13,10 +13,10 @@
 9. In der linken Seite siehst du jetzt "main.py". Öffne diese Datei, und gehe schließlich oben rechts auf das Play-Symbol.
 10. Jetzt kannst du MinecraftPy spielen.
 
-## Steuerung:
+## Steuerung: <br>
 
-Laufen - wasd
-Springen - Enter
-Blöcke setzen - Linksklick
-Blöcke abbauen - Rechtsklick
-Zwischen Blöcken wechseln - 1 (Grasblock), 2 (Stein), 3 (Ziegelstein), 4 (Erde/Dirt)
+Laufen - wasd <br>
+Springen - Enter <br>
+Blöcke setzen - Linksklick <br>
+Blöcke abbauen - Rechtsklick <br>
+Zwischen Blöcken wechseln - 1 (Grasblock), 2 (Stein), 3 (Ziegelstein), 4 (Erde/Dirt) <br>
